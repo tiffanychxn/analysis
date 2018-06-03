@@ -26,10 +26,22 @@ The intended audience for this document will be the client (David Brown) and the
 <img src="https://cp317s18.github.io/analysis/analysis-object-diagram.png" align="left" hspace="70" />
 
 ### 2.2 Entity Objects
+- User - A User of the Shout! application
+- Message - User generated text to be broadcasted to other Shout! users
+- Device -  The basis for the Bluetooth LE software and its connections 
+
 
 ## 2.3 Control Objects 
+- Controller Interface - Coordinates all matters related to the exchange of messages between users
+- User Controller - Coordinates all matters related to user data
 
 ## 2.4 Boundary Objects
+- Relay : enables the user to pass along messages to or from other users
+- Send - enables the user to export ot send messages to other users 
+- Receive - enables the user to obtain or receive messages from other others
+- Connect - establishes the first connection between relay nodes 
+- UserView - The UI of the application, connects the user to the application backend 
+
 
 # 4. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
