@@ -23,7 +23,7 @@ The intended audience for this document will be the client (David Brown) and the
 						
 ## 2.1 Object Diagram 
 
-<img width="852" height="1039" src="cp317s18.github.io/analysis/analysis-object-diagram.png" align="left" hspace="70" />
+<img src="https://cp317s18.github.io/analysis/analysis-object-diagram.png" align="left" hspace="70" />
 
 ### 2.2 Entity Objects
 
