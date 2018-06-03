@@ -1,7 +1,7 @@
 # Table of Contents
 - [1. Introduction](#1-introduction)
   * [1.1 Project Summary](#11-project-summary)
-  * [1.2 Object Diagram](#12-project-purpose)
+  * [1.2 Project Purpose](#12-project-purpose)
 - [2. Object Classification](#2-object-classification)
   * [2.1 Object Diagram](#21-object-diagram)
   * [2.2 Entity Objects](#22-entity-objects)
@@ -33,4 +33,9 @@ The intended audience for this document will be the client (David Brown) and the
 - Version 0.1 6/03/2018 `Document outline created` 
 
 # 5. Authored by: 
+- Jayanth Koroth
+- Emily Hyrb
+- Tiffany Chan
+- Greg Murray
+- Delina Kristos
 
