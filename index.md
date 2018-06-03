@@ -25,7 +25,7 @@ The intended audience for this document will be the client (David Brown) and the
 
 <img src="https://cp317s18.github.io/analysis/analysis-object-diagram.png" align="left" hspace="70" />
 
-### 2.2 Entity Objects
+## 2.2 Entity Objects
 - User - A User of the Shout! application
 - Message - User generated text to be broadcasted to other Shout! users
 - Device -  The basis for the Bluetooth LE software and its connections 
