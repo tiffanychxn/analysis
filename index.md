@@ -7,14 +7,22 @@
   * [2.2 Entity Objects](#22-entity-objects)
   * [2.3 Control Objects](#23-control-objects)
   * [2.4 Boundary Objects](#24-boundary-objects)
-- [4. Versions](#5-versions)
-- [5. Authors](#6-authored-by)
+- [3. Further Steps](#3-further-steps)
+- [4. Identify Class Associations](#4-identify-class-associations)
+- [5. Identify Class Attributes](#5-identify-class-attributes)
+- [6. Model Generalizations](#6-model-generalizations)
+- [7. Non-Functionl Requirements](#7-non-functional-requirements)
+- [8. Ensure Model is Correct](#8-ensure-model-is-correct)
+- [9. Ensure Model is Complete](#9-ensure-model-is-complete)
+- [10. Ensure Model is Consistent](#10-ensure-model-is-consistent)
+- [11. Versions](#11-versions)
+- [12. Authored By](#12-authored-by)
 
 # 1. Introduction
 ## 1.1 Project Summary
 _Shout!_  is a bluetooth low energy (BLE) mesh-based messaging application that is supported on Android and iOS. It allows users to talk to other users within a single messaging room as long as they are all connected to the same bluetooth mesh.
 
-## 1.2 Purpose
+## 1.2 Project Purpose
 This document will cover all of the requirements needed for _Shout!_ and will describe all of its features and how they work.
 
 The intended audience for this document will be the client (David Brown) and the project team. They will use this document to be reminded of the requirements of the project. The document will also be used as the basis for the project.
@@ -42,14 +50,29 @@ The intended audience for this document will be the client (David Brown) and the
 - Connect - establishes the first connection between relay nodes 
 - UserView - The UI of the application, connects the user to the application backend 
 
+# 3. Further Steps 
 
-# 4. Versions
+# 4. Identify Class Associations 
+
+# 5. Identify Class Attributes 
+
+# 6. Model Generalizations 
+
+# 7. Non-Functional Requirements 
+
+# 8. Ensure Model is Correct
+
+# 9. Ensure Model is Complete 
+
+# 10. Ensure Model is Consistent 
+## 
+# 11. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
 
-# 5. Authored by: 
+# 12. Authored by: 
 - Jayanth Koroth
-- Emily Hyrb
+- Emily Hryb
 - Tiffany Chan
 - Greg Murray
-- Delina Kristos
+- Delina Ghebrekristos
 
