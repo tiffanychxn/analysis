@@ -40,7 +40,7 @@ The intended audience for this document will be the client (David Brown) and the
 - User Controller - Coordinates all matters related to user data
 
 ## 2.4 Boundary Objects
-- Relay : enables the user to pass along messages to or from other users
+- Relay - enables the user to pass along messages to or from other users
 - Send - enables the user to export or send messages to other users 
 - Receive - enables the user to obtain or receive messages from other others
 - Connect - establishes the first connection between relay nodes 
