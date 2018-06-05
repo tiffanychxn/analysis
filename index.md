@@ -9,7 +9,7 @@
   * [2.4 Boundary Objects](#24-boundary-objects)
 - [3. Further Steps](#3-further-steps)
   * [3.1 Device Controller Class](#31-device-controller-class)
-  * [3.2 User Class](#32-user-class)
+  * [3.2 Connect Class](#32-connect-class)
 - [4. Versions](#4-versions)
 - [5. Authored By](#5-authored-by)
 
@@ -49,7 +49,7 @@ The intended audience for this document will be the client (David Brown) and the
 
 ## 3.1 Device Controller Class 
 
-## 3.2 User Class 
+## 3.2 Connect Class 
 
 # 4. Versions
 - Version 0.1 6/03/2018 `Document outline created` 
